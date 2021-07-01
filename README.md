@@ -1,331 +1,198 @@
 ---
-title: SKILL.de Retreat 12.10.2021
 slideOptions:
-  theme: white
+  theme: sky
   controls: true
-  progress: true
-  slideNumber: true
-  transition: 'convex'
-  showNotes: false
+  overview: true
+  center: true
   
 ---
-# [SKILL.de](https://skill.uni-passau.de) Retreat 11.10.2021
 
----
-
-## Professionalisierungsmanagement im Netz - Domain of One's Own: Veränderungen digitalen Selbstmanagements
-_Denzentralisierung in der digitalen Welt_
-Bence Lukács und Benjamin Heurich
+# Urheberrecht, Menschenrecht, Wissenschaftliches Arbeiten?
+*Und was bedeutet das für die Erstellung von Bildungsmaterial?*
 <!-- .slide: style="font-size: 32px;" -->
 
 ---
 
-### Domain of One's Own: Veränderungen digitalen Selbstmanagements
+#### Was haben wir heute vor?
 
-Zugangslink: https://kurzelinks.de/SKILLdeRetreat2021
-![QR Code zu den Slides](https://i.imgur.com/7u1heWi.png)
-<!-- .slide: style="font-size: 36px;" -->
+:copyright: [Kurzer Überblick zum Urheberrecht](#/2/2)
+:green_book: [Menschenrechte](#/6/1) & [Fair Use im Vergleich](#/7)
+:performing_arts: [Creative Commons Lizenzen](#/8)
+:bookmark_tabs: [Wie passt wissenschaftliches Arbeiten hierher?](#/9)
 
-Note:
-  Die Slides sind unter dem Zugangslink bzw. dem QR-Code abrufbar. 
-
----
-
-#### Professionalisierungsmanagement im Netz - Domain of One's Own: Veränderungen digitalen Selbstmanagements
-
-:world_map: Übersicht der Slides **ESC** Taste
-:arrow_backward: :arrow_down_small: :arrow_forward: :arrow_up_small: _Navigation in den Slides_
-:speaking_head_in_silhouette: Mit Klick auf den Keyboard-Button `<S>` erscheint der Speaker Modus mit weiteren Notizen
-
-
-Note:
-  Man kann zwischen den unterschiedlichen Slides bzw. den Ebenen mit den Pfeiltasten navigieren, und man erreicht die Übersicht (um den gesamten Slide-Satz sichtbar zu machen) mit der **ESC** Taste.
+:card_file_box: [Lizenz- und Verwendungshinweise](#/14)
 
 ---
 
-## Was haben wir heute vor?
-:earth_africa: ["Bildung in der digitalen Welt"](#/5) 
+#### Urheberrecht?
 
-:bookmark_tabs: [Vom E-Portfolio zur Domain of One's Own](#/6) :computer: 
-
-:ledger: [Dezentralisierung, Blockchain &  _Atala PRISM_](#/12/2)
-
-:crystal_ball: [Ausblick & Zukunftsthemen](#/13)
-
-:link: [Weiterführende Links & Literatur](#/14)
-
-Note:
-    Mit einem Klick auf die jeweilige Thematik kann man direkt zu der ersten Folie der entsprechenden Ebene gelangen.
-
----
-
-## "Bildung in der digitalen Welt"
-[**KMK: SWK Stellungnahme**](https://www.kmk.org/fileadmin/pdf/KMK/StaewiKo/2021/2021_10_07-SWK_Weiterentwicklung_Digital-Strategie.pdf)
-
->"So besteht in Deutschland nach wie vor ein erheblicher Nachholbedarf bei der Schaffung einer
-**stabil funktionierenden Infrastruktur**, die den Einsatz digitaler Lehr-Lern-Materialien zum Aufbau fachspezifischer und fächerübergreifender Kompetenzen in der Schule [...] ermöglicht" (S. 5)
-
-[**ICILS - International Computer and Information Literacy Study**](https://www.iea.nl/studies/iea/icils)
-
-ICILS 2013: Information Literacy
-ICILS 2018: Computational Thinking
-**ICILS 2023: Digital Citizenship**
-<!-- .slide: style="font-size: 28px;" -->
-
----
-
-## :bookmark_tabs: Von E-Portfolio zur Domain of One's Own :computer: 
-_![Grobe Skala zur Einordnung verschiedener Umsetzungen zwischen E-Portfolio und Domain of One’s Own](https://i.imgur.com/pBufdsJ.png) <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://domain-of-ones-own.de/wp-content/uploads/2021/07/Skala-768x296.png">Grobe Skala zur Einordnung verschiedener Umsetzungen zwischen E-Portfolio und Domain of One’s Own</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://domain-of-ones-own.de">Katharina Schulz unter Mitarbeit von Christian Friedrich</a> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>_ 
-<!-- .slide: style="font-size: 26px;" -->
-
----
-
-## E-Portfolio im geschützten LMS
-<!-- .slide: data-background="#B9D4ED" -->
+----
+> [§1](https://www.gesetze-im-internet.de/urhg/__1.html) Die Urheber von Werken der Literatur, Wissenschaft und Kunst genießen für ihre Werke Schutz nach Maßgabe dieses Gesetzes.
 
 ----
 
-## E-Portfolio im geschützten LMS
-
-<!-- .slide: data-background="#B9D4ED" -->
-![](https://i.imgur.com/wD7Os0e.png)
-![](https://i.imgur.com/fhsCgJZ.png =600x350)
-
----
-
-## Beiträge im offenen Bereich eines LMS
-
-<!-- .slide: data-background="#C3D6DC" -->
+>[§7](https://www.gesetze-im-internet.de/urhg/__7.html) Der Urheber ist der Schöpfer des Werkes.
 
 ----
 
-## Beiträge im offenen Bereich eines LMS
-|  |  | 
-| -------- | -------- | 
-| ![](https://i.imgur.com/UPjLvGf.jpg)    | ![](https://i.imgur.com/l4sJPER.jpg)    |
-<!-- .slide: data-background="#C3D6DC" -->
+>[§11](https://www.gesetze-im-internet.de/urhg/__11.html) Das Urheberrecht schützt den Urheber in seinen geistigen und persönlichen Beziehungen zum Werk und in der Nutzung des Werkes. Es dient zugleich der Sicherung einer angemessenen Vergütung für die Nutzung des Werkes.
 
-Note:
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/IS8CbzJZX4k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+---
+
+#### Zitatrecht?
+>[§51](www.gesetze-im-internet.de/urhg/__51.html) Zulässig ist die Vervielfältigung, Verbreitung und öffentliche Wiedergabe eines veröffentlichten Werkes zum Zweck des Zitats, sofern die Nutzung in ihrem Umfang durch den besonderen Zweck gerechtfertigt ist. Zulässig ist dies insbesondere, wenn
+
+----
+
+>1. einzelne Werke nach der Veröffentlichung in **ein selbständiges wissenschaftliches Werk zur Erläuterung** des Inhalts aufgenommen werden,
+
+----
+
+>2. Stellen eines Werkes nach der Veröffentlichung in **einem selbständigen Sprachwerk** angeführt werden,
+
+----
+
+>3. einzelne Stellen eines erschienenen Werkes der Musik in **einem selbständigen Werk der Musik** angeführt werden.
+
+---
+
+#### [§60a](https://www.gesetze-im-internet.de/urhg/__60a.html)  Unterricht und Lehre
+>(1) Zur Veranschaulichung des Unterrichts und der Lehre an Bildungseinrichtungen dürfen zu **nicht kommerziellen Zwecken bis zu 15 Prozent eines veröffentlichten Werkes vervielfältigt, verbreitet, öffentlich zugänglich gemacht und in sonstiger Weise öffentlich wiedergegeben werden**
+<!-- .slide: style="font-size: 32px;" -->
+
+----
+
+>1. für Lehrende und Teilnehmer der jeweiligen Veranstaltung,
+
+----
+
+>2. für Lehrende und Prüfer an derselben Bildungseinrichtung sowie
+
+----
+
+>3. für Dritte, soweit dies der Präsentation des Unterrichts, von Unterrichts- oder Lernergebnissen an der Bildungseinrichtung dient.
+
+----
+
+(2) **Abbildungen, einzelne Beiträge aus derselben Fachzeitschrift oder wissenschaftlichen Zeitschrift, sonstige Werke geringen Umfangs und vergriffene Werke dürfen abweichend von Absatz 1 vollständig genutzt werden.**
+
+----
+
+(3) Nicht nach den Absätzen 1 und 2 erlaubt sind folgende Nutzungen:
+
+**2. Vervielfältigung, Verbreitung und öffentliche Wiedergabe eines Werkes, das ausschließlich für den Unterricht an Schulen geeignet, bestimmt und entsprechend gekennzeichnet ist, an Schulen sowie...**
 
 
 ---
 
-## Beiträge im Blog der Hochschule
+#### [§60b](www.gesetze-im-internet.de/urhg/__60b.html) Unterrichts- und Lehrmedien
 
-<!-- .slide: data-background="#D1DAD0" -->
-
-----
-
-## Beiträge im Blog der Hochschule
-
-<!-- .slide: data-background="#D1DAD0" -->
-![](https://i.imgur.com/gpqc0To.png)
+>Hersteller von Unterrichts- und Lehrmedien dürfen **für solche Sammlungen bis zu 10 Prozent eines veröffentlichten Werkes vervielfältigen, verbreiten und öffentlich zugänglich machen.**
+<!-- .slide: style="font-size: 32px;" -->
 
 ----
 
-## Beiträge im Blog der Hochschule
-![](https://i.imgur.com/zFqIF5P.jpg)
-<!-- .slide: data-background="#D1DAD0" -->
+>Unterrichts- und Lehrmedien im Sinne dieses Gesetzes sind Sammlungen, **die Werke einer größeren Anzahl von Urhebern vereinigen und ausschließlich zur Veranschaulichung des Unterrichts und der Lehre an Bildungseinrichtungen (§ 60a) zu nicht kommerziellen Zwecken geeignet, bestimmt und entsprechend gekennzeichnet sind.**
 
 ---
 
-## Gemeinsamer Blog im freien Internet, zentrale Adminstration
-
-<!-- .slide: data-background="#E2DEBA" -->
-
-----
-
-## Gemeinsamer Blog im freien Internet, zentrale Administration
-### Praxis-Beispiel Schulzeugnisse
-> Beispiel Abi: Schüler müssen für Bewerbungen Kopien beim Amt beglaubigen lassen, per Post an die Hochschulen oder Unternehmen schicken, wo sie dann gecheckt werden. Die Zukunft laut Projektpartnern: eine Zeugnis-PDF-Datei, in die eine weitere maschinell lesbare XML-Datei eingebettet ist. Das digitale Zeugnis, **<ins>gesichert und verschlüsselt, könnten Schüler – bei ihnen liegt die Datenhoheit</ins>** – ortsunabhängig auf einer Onlineplattform herunterladen und etwa per E-Mail versenden. Der Adressat könne in Sekundenbruchteilen prüfen, ob das Dokument echt ist.
-> 
-[Digitales Schulzeugnis in der Blockchain rückt näher – Test in drei Bundesländern](https://t3n.de/news/digitales-schulzeugnis-blockchain-1386232/)
-<!-- .slide: style="font-size: 25px;" -->
-<!-- .slide: data-background="#E2DEBA" -->
+#### Menschenrechte
+>Das Recht auf Bildung beginnt mit der Geburt und besteht das ganze Leben lang. Menschen lernen in Kindertagesstätten, in der Schule, an Hochschulen, Berufsschulen, in ihrer Freizeit, im Beruf und an vielen weiteren Orten. Die UNESCO setzt sich für hochwertige, inklusive und chancengerechte Bildung auf allen Stufen ein.[:link:](https://www.unesco.de/bildung/bildungsbiografie)
+<!-- .slide: style="font-size: 32px;" -->
 
 ----
 
-### Praxis-Beispiel Schulzeugnisse
-> Papierzeugnisse erweisen sich vor allem für Abschlussjahrgänge als immer unpraktischer, weil Bewerbungen um Studien- oder Ausbildungsplätze inzwischen weitgehend online laufen, wie der Experte betont. {...} Die **<ins>Gefahr einer Manipulation sei bei Papierzeugnissen groß</ins>**. Auf Youtube kursieren sogar Tutorials mit **<ins>Anleitungen zum Noten-Fälschen</ins>**.
-> 
-[Digitales Schulzeugnis in der Blockchain rückt näher – Test in drei Bundesländern](https://t3n.de/news/digitales-schulzeugnis-blockchain-1386232/)
-<!-- .slide: style="font-size: 28px;" -->
-<!-- .slide: data-background="#E2DEBA" -->
-
-----
-
-### Praxis-Beispiel Schulzeugnisse
-> Die Schüler bekommen neben ihrem Papierzeugnis eine digitale Ausgabe im PDF-Format. **<ins>Eine Prüfsumme – im Fachjargon „Hash-Wert“ – ist als Zahlenkette und quasi digitaler Fingerabdruck</ins>** in einer Blockchain unveränderbar gespeichert und gesichert. Die Bundesdruckerei versichert, bei ihr würden außer der Prüfsumme keine weiteren Daten gespeichert. 
-> 
-[Digitales Schulzeugnis in der Blockchain rückt näher – Test in drei Bundesländern](https://t3n.de/news/digitales-schulzeugnis-blockchain-1386232/)
-<!-- .slide: style="font-size: 28px;" -->
-<!-- .slide: data-background="#E2DEBA" -->
+#### Artikel 26
+>1. Jeder hat das Recht auf Bildung. Die Bildung ist unentgeltlich, zum mindesten der Grundschulunterricht und die grundlegende Bildung. Der Grundschulunterricht ist obligatorisch. Fach- und Berufsschulunterricht müssen allgemein verfügbar gemacht werden, und der Hochschulunterricht muß allen gleichermaßen entsprechend ihren Fähigkeiten offenstehen. [:link:](https://www.un.org/depts/german/menschenrechte/aemr.pdf)
+<!-- .slide: style="font-size: 32px;" -->
 
 ---
 
-## Eigene Domain mit voller Kontrolle
-
-Note:
-    Man kann hierbei von unterschiedlichen Stufen einer "Offenheit" sprechen - von E-Portfolio im internen LMS, bis hin zur eigenen Domain im Netz (Stichwort Empowerment).
-> **Warum überhaupt eine eigenen Domain?**
-> *    **Du** hast die Kontrolle. Du bestimmst was dort enthalten ist und was nicht. (Wie möchte ich meinen Garten anlegen?)
-> * **Du** machst deine Inhalte für dich immer auffindbar. Es ist dein "Garten", niemand sperrt dir das Tor zu. Es ist wie ein Tagebuch und Du kannst deine Lernreise noch nachträglich jederzeit verfolgen.
-> * **Du** bestimmst, wer deine Inhalte sehen kann und wer nicht (kleiner Zaun oder hohe, dichte Hecke?) Wie sichtbar soll meine Seite sein?
-> * **Du** wirst mündiger Bürger bzw. Bürgerin im Internet.
-> * **Du** machst deine Kompetenz und deine Interessen sichtbar.
-
-[_#CLCDoOO - Anleitung für Anfänger:innen_](https://colearn.de/clcdooo-anleitung)
-<!-- .slide: data-background="#F0E2A9" -->
-
-
-----
-
-## Domain of One's Own:question: 
-
-:school: Beim Start im Studium bekommen Studierende eine eigene [Domain](https://de.wikipedia.org/wiki/Domain_(Internet)) + eigenen [Webspace](https://de.wikipedia.org/wiki/Webspace)
-:lock: Studierende kontrollieren und steuern die Ausgestaltung, sowie die Inhalte
-:female-student: :male-student: Am Ende des Studiums können sämtliche Inhalte mitgenommen werden
-<!-- .slide: data-background="#F0E2A9" -->
-
-Note:
-  Katharina Schulz und Christian Friedrich haben einige Vorteile ausgearbeitet:
-  **Lernen sich im Netz zu bewegen** - Inhalte erstellen, Tools ausprobieren, Blick auf Digital Literacy
-  **Autonomie** - Kontrolle über eigene digitale Identität und Inhalte
-  **Offenheit und Vernetzung** - Kultur des Austausches, des Teilens und der Kollaboration
-  **Alternative Prüfungsformte** - [_Non-Disposable Assignment_](https://teachanywhere.opened.ca/practices/non-disposable-assignments/) als Prüfungsleistung
-  >Anders als in einem geschlossenen Lernmanagementsystem (LMS) bewegen sich die Nutzenden im _echten_ Netz, nicht in einem geschützten Raum. Sie lernen das Internet kennen, wie es wirklich ist, mit allem Vor- und Nachteilen und den nötigen Abwägungen.
-  >
-   _<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://domain-of-ones-own.de/konzeptpapier/">Domain of One’s Own in der Praxis</a> by <span property="cc:attributionName"> Katharina Schulz unter Mitarbeit von Christian Friedrich</span> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>_ 
-
-----
-
-## Domain of One's Own:exclamation: 
-
-Als kleine Zusammenfassung bzw. Überblick können die Vorteile von DoOO folgendermaßen beschrieben werden:
-> :one: Provide students with the tools and technologies to build out a digital space of their own
-> :two: Help students appreciate how digital identity is formed
-> :three: Provide students with curricular opportunities to use the Web in meaningful ways
-> :four: Push students to understand how the technologies that underpin the Web work, and how that impacts their lives
-> 
-> _[Making and Breaking Domain of One’s Own: Rethinking the Web in Higher Ed, Martha Burtis (2016)](https://hybridpedagogy.org/making-breaking-rethinking-web-higher-ed/)_
-> <!-- .slide: style="font-size: 24px;" -->
-<!-- .slide: data-background="#F0E2A9" -->
-
-Note:
-  Katharina Schulz und Christian Friedrich haben ebenfalls eine Reihe an Herausforderungen ausgearbeitet:
-  **Erwartungsmanagement** - Teilweise Gleichsetzung mit E-Portfolios
-  **Administrative Fragen** - Zusammenarbeit vieler Stakeholder (z.B. IT, Insitute, Lehrende) notwendig
-  **Skalierbarkeit** - in welchen Fächern bzw. Fachgebieten ist es umsetzbar?
->Kontrollverlust: Ob man Kontrollverlust als Risiko oder Chance betrachtet, hängt auch von der eigenen Sicht auf Lehren und Lernen ab. Die Kontrolle die Studierende gewinnen, müssen Lehrende abgeben. In jedem Fall stellt dies eine Umstellung dar.
-
-_<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://domain-of-ones-own.de/konzeptpapier/">Domain of One’s Own in der Praxis</a> by <span property="cc:attributionName"> Katharina Schulz unter Mitarbeit von Christian Friedrich</span> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p>_ 
-
-----
-
-### :earth_africa: DoOO mit technischen Entwicklungen im 21. Jhdt. :ledger:
-Wohin kann die Reise also führen? :woman-walking: :man-walking: 
-
-:school: Lernende bekommen Konto über Universität bereitgestellt (für u.a. LMS-Nutzung)
-
-:frame_with_picture: Portfolio-Software (wie z.B. Mahara) ermöglicht Steuerung der Veröffentlichung bzw. der Inhalte
-
-:computer: Hochschule stellt Domain über third-party Hosting bereit (z.B. [Reclaim](https://reclaimhosting.com))
-
-:question: Ist das DoOO-Konzept skalierbar (v.a. mit Blick auf das Hosting?)
-
-:spider_web: Umsetzung mit WebIDE (= integrated development environment = Browser-basierte Entwicklungsumgebung)
-
-:exclamation: Bereitstellung mit **public ledger** bzw. Blockchain :ledger:
-<!-- .slide: style="font-size: 24px;" -->
-<!-- .slide: data-background="#F0E2A9" -->
-
-Note:
-  :one: Durch die Bereitstellung des Konto über die Universität ist die größte Kontrolle bei _IT der Hochschule_
-  :two: Mit E-Portfolio Software kann zumindest der Inhalt (ev. sogar der Export) bzw. die Freigabe _durch die Lernenden gesteuert werden_
-  :three: Hosting über third-party gelöst und die IT der Hochschule stellt lediglich die Oberfläche zur Verfügung. _Lernende sind im Besitz der gesamten Domain_ und können alles selbst steuern.
-  :grey_question: Wer bezahlt das Hosting nach dem Studium, falls Lernende die Domain mitnehmen können sollten?
-  :four: WebIDE und Open Source Repos usw. als möglicher Lösungsansatz, denn _Hosting ist nun extern_ gelöst.
-  :five: In der Zukunft auf Blockchain-Technologie basierte Lösungen?
-  
-
+#### Fair Use
+>Fair use is a legal doctrine that promotes freedom of expression by permitting the unlicensed use of copyright-protected works in certain circumstances. Section 107 of the Copyright Act provides the statutory framework for determining whether something is a fair use and identifies certain types of uses—such as criticism, comment, news reporting, teaching, scholarship, and research—as examples of activities that may qualify as fair use. [:link:](https://www.copyright.gov/fair-use/more-info.html)
+<!-- .slide: style="font-size: 32px;" -->
 
 ---
 
-## :ledger: Blockchain :grey_question: 
+#### Creative Commons
+>Die Creative Commons Urheberrechtslizenzen und -werkzeuge schaffen eine Balance innerhalb des traditionellen Umfelds von "Alle Rechte vorbehalten", das aus dem Urheberrecht entsteht. Unsere Werkzeuge geben jedermann, von individuellen Urhebern bis zu großen Firmen und Institutionen eine einfache, standardisierte Methode an die Hand, um urheberrechtliche Erlaubnisse bezüglich ihrer Werken zu geben. [:link:](https://creativecommons.org/licenses/?lang=de)
+<!-- .slide: style="font-size: 32px;" -->
 
->In short, blockchain is a **decentralized** and **public** digital ledger that records any information – like financial transactions – in an **anonymous** and **immutable** way. Such groundbreaking features provide users with **significant benefits**:
->* Because it is decentralized, there are **no third parties involved**: no banks, no cloudy actors, no administrator, no unexpected fees. **Just you and your digital assets**. 
->* As a public record, it provides **transparency** of all the transactions and allows **traceability**. While this can allow information counter-checking, it also makes falsifying information difficult. 
->* Information is recorded in both an **anonymous** and **immutable** way. It means that once data is added to the ledger, it cannot be removed or altered. Nor can it the provider be nominatively identified.
-> 
->[:Link: _The Power of Blockchain - Ledger Academy_](https://www.ledger.com/academy/basic-basics/about-crypto/learn-blockchain-basics)
+----
+
+<iframe src="https://player.vimeo.com/video/13590841?byline=0&portrait=0" width="640" height="480" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/13590841">Wanna Work Together?</a> from <a href="https://vimeo.com/creativecommonsvideos">Creative Commons</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+---
+
+#### Wissenschaftliches Arbeiten
+
+<img src="https://i.imgur.com/Cup1ZGL.png" width="400" height="400" />
+
+:mag_right: Laut Urheberrecht _müssen_ immer Quellenangaben gemacht werden [:link:](https://www.gesetze-im-internet.de/urhg/__63.html)
+:mag: Generell kein richtig großer Unterschied zu Zitationsregeln in der Wissenschaft, z.B. APA Stlye[:link:](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_style_introduction.html)
 <!-- .slide: style="font-size: 24px;" -->
 
-Note:
-  Durch die wesentlichen Funktionsprinzipien bzw. Merkmale der Technologie (Anonymität und Pseudonymität, Dezentralität, Transparenz und Sicherheit) lassen sich Prozesse, die auf einer klaren Daten- bzw Informationsbasis aufbauen effizienter lösen:
-  * Landwirtschaft: z.B. direkte Verbindung von Produzenten und Konsumenten
-  * Logistik: z.B. Transparenz in der Lieferkette
-  * Finanzwesen: z.B. 'bank the unbanked' bzw. ['decentralized finance'](https://ethereum.org/en/defi/)
-  * Verträge: z.B. Grundbuch
-  * Datenspeicherung: z.B. Gesundheitswesen
+----
 
-[Blockchain: Was ist das?](https://blockchainwelt.de/blockchain-was-ist-das)
-[Wie die Blockchain-Technologie die Welt verändert](https://technologyhub.de/wie-die-blockchain-technologie-die-welt-veraendert)
+#### Angaben zu Nutzungsrechten
+
+>Die Videoinhalte werden ausschließlich zur privaten, persönlichen Nutzung bereitgestellt. Eine Weiterverbreitung oder kommerzielle Nutzung ist nicht gestattet. Alle Rechte sind vorbehalten. Bei einer Verwertung und Vorführung gilt das Urheberrechtsgesetz.
+Der § 60a UrhG erlaubt die Nutzung von bis zu 15 Prozent eines veröffentlichten Werkes zur Veranschaulichung des Unterrichts an Bildungseinrichtungen, sofern damit keine kommerziellen Zwecke verfolgt werden. Dies bedeutet, dass Sie die Inhalte im Unterricht zeigen, zu Lehrzwecken einer abgegrenzten Gruppe zur Verfügung stellen und auf eine Lernplattform hochladen dürfen. Das Umgehen der Regelung über eine Fragmentierung des gesamten Werks ist nicht gestattet. Die Ausnahmevorschrift greift nicht, wenn ein gesamter Beitrag gezeigt werden soll.[:link:](https://hilfe.ardmediathek.de/faq/Sendungen-%26-Verfuegbarkeit/Darf-ich-Sendungen-in-der-Schule-zeigen%3F)
+<!-- .slide: style="font-size: 24px;" -->
 
 ----
 
-## :ledger: Professionalisierungsmanagement auf der Blockchain
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jKT_3clxeqw?start=87" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#### Metadaten
 
-**[Atala PRISM](https://www.atalaprism.io/app)**
-Dezentralisiertes Identitätsmanagement
-<!-- .slide: style="font-size: 24px;" -->
-
-Note:
-  Selbst ausprobieren mit Smartphone
-  ![Atala PRISM](https://i.imgur.com/7tOJ203.png)
-  :movie_camera: Video wichtig bis `04:53`
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/IoNNmVwIxfc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-## Was bedeutet es für die Zukunft in [SKILL.de](https://skill.uni-passau.de)?
+#### Frei verfügbares Bildungsmaterial
 
-:mag: Theoretische Be- und Aushandlung in der multimedialen Abschlusspublikation
 
-Fortsetzung DoOO-Konzeption im [Open Work Hub](https://blog.dilab.uni-passau.de/open-work-hub-von-uncopyright-bis-zur-domain-of-ones-own/) :mag_right: 
+<iframe src="https://slidewiki.org/presentation/134480/_/134480/?language=de" width="800" height="400"></iframe><p><a href="https://slidewiki.org/presentation/134480/_/134480/?language=de">OER in aller Kürze - bencelukacs</a></p>
 
-:mag: weiteres Brainstorming zu Blockchain-Technologie bzw. gemeinsame [dApp](https://ethereum.org/en/developers/docs/dapps)-Konzeption
 
-weitere Ideen...? :mag_right:
-<!-- .slide: style="font-size: 31px;" -->
+---
+
+## Fragen für das praktische Arbeiten
+Urheberrecht - besonders im Bildungsbereich bleibt eine Grauzone :exclamation: 
+
+Bildung ist zeitgemäßer als die Rechtslage:exclamation: 
+
+Welches Bildungsmaterial "muss" veröffentlicht werden:question: 
+
+Wohin soll die Entwicklung gehen, Öffnung oder Schließung:question:
+
+---
+
+#### Tools
+
+* _Schritt für Schritt Formular zur offenen Lizenzierung von Material_ :arrow_right: Creative Commons Licence Chooser [:link:](https://chooser-beta.creativecommons.org/)
+* _Tutorial-Reihe zur Erstellung von möglichst offenen Bildungsmaterialien_ :arrow_right: Der Gold-Standard zur OER [:link:](https://open-educational-resources.de/gold-standard-buch-artikel/)
 
 ---
 
 #### Zum weiterlesen und -hören
-
-
-[:link:](https://matthias-andrasch.eu/blog/2021/web-ides-fuer-kleine-domain-of-ones-own-experimente/) "Web-IDEs für kleinere DoOO-Experimente?" von Matthias Andrasch
-[:link:](https://docs.google.com/document/d/1908hBG4riiksjAJX9BbP6jZ0A4wsM4SRuk7k9LsTqF0/edit) Mahara E-Portfolio Examples and Resources
-[:link:](https://domain-of-ones-own.de) Erstes DoOO-Projekt einer deutschen Hochschule
-[:link:](https://www.researchgate.net/publication/338533871_Learning-Record_Store_on_Blockchain_A_Glimpse_Into_the_Future) Learning-Record Store on Blockchain: A Glimpse Into the Future, Pfeiffer et al. (2018)
-[:link:](https://www.researchgate.net/publication/342708250_Blockchain-Technologien_im_Bildungssektor_Ergebnisse_einer_ersten_Datenerhebung) Blockchain-Technologien im Bildungssektor: Ergebnisse einer ersten Datenerhebung, Pfeiffer und Wernbacher (2020)
-[:link:](https://www.youtube.com/c/aantonop/playlists?view=50&sort=dd&shelf_id=3) Andreas Antanopolous - Bitcoin for Beginners: Learn the Basics
-[:Link:](https://iohk.io/en/research/library/) IOHK Library für Research Paper
-[:Link:](https://forum.cardano.org/c/deutsch/112) Foren der deutsprachigen Cardano-Community
-[:link:](https://youtu.be/FKh8hjJNhWc) Charles Hoskinson: Cardano | Lex Fridman Podcast #192
-[:link:](https://tim.blog/2021/03/08/vitalik-buterin-naval-ravikant/) Vitalik Buterin, Creator of Ethereum, on Understanding Ethereum, ETH vs. BTC, ETH2, Scaling Plans and Timelines, NFTs, Future Considerations, Life Extension, and More (Featuring Naval Ravikant) (#504)
-<!-- .slide: style="font-size: 18px;" -->
+* Prof. Dr. Michael Beurskens, Universität Passau:
+Keine Angst vor der Kopie! Legale Nutzung fremder Inhalte in Forschung und Lehre (SoSe 2019) [:link:](https://player.vimeo.com/video/540526020?color=ffffff&autoplay=1)
+* Prof. Dr. Michael Beurskens, Universität Passau:
+Kopieren, Teilen, Präsentieren – Urheberrechtliche Fragen in der eigenen Forschung (WiSe 2019/2020) [:link:](https://player.vimeo.com/video/540528739?color=ffffff&autoplay=1)
+* _Video zu den grundlegenden Fragen_ 101 - Medienrecht [:link:](https://open-educational-resources.de/101-medienrecht/)
+* iRights Dossiers (u.a. zu OER, Creative Commons) [:link:](https://irights.info/dossier)
+<!-- .slide: style="font-size: 32px;" -->
 
 ---
 
 #### Lizenz- und Verwendungshinweise
 
-###### tags: `Open Education` `Blockchain` `Mediendidaktik`
+###### tags: `Open Education` `Open Educational Resources`
 
- <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://hackmd.io/@spencelukacs/SKILLdeRetreat2021">Professionalisierungsmanagement im Netz - Domain of One’s Own: Veränderungen digitalen Selbstmanagements</a> by <span property="cc:attributionName">Bence Lukács & Benjamin Heurich</span> is licensed under <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></a></p> 
+Die Zusammenstellung dieser Inhalte<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://hackmd.io/@spencelukacs/KurzinputUrhGundOER">Kurzinput Urheberrecht & OER</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://hackmd.io/@spencelukacs">Bence Lukács, Universität Passau, SKILL.de</a> is marked with <a href="http://creativecommons.org/publicdomain/zero/1.0?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1"></a></p> 
  
 * Ausgenommen hiervon sind sämtliche separat markierte und lizenzierte Materialien.
-* Dieser Input wurde im Rahmen des [SKILL.de](https://skill.uni-passau.de)-Retreats 2021 an der Universität Passau präsentiert.
+* Dieser Input entstand im Rahmen eines SKILL.de-Seminars an der Universität Passau.
 
-<!-- .slide: style="font-size: 24px;" -->
+
